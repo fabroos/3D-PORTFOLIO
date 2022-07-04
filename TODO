@@ -1,0 +1,9 @@
+Pasos:
+  ✔ Intsall Vite and threejs @done(22-06-29 01:31)
+  ✔ Create a Scene, Camera and renderer @done(22-06-29 01:32)
+  ☐ Create a Plane
+  ☐ Modify to taste with dat.gui
+  ☐ Add a hover effect
+  ☐ Add HTML and integrate with js
+
+

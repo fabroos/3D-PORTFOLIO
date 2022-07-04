@@ -1,0 +1,11 @@
+Model Information:
+* title:	Table Lamp Low Poly
+* source:	https://sketchfab.com/3d-models/table-lamp-low-poly-36792497b18d4b0f87fc502429779db4
+* author:	vadzaecc (https://sketchfab.com/vadzaecc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Table Lamp Low Poly" (https://sketchfab.com/3d-models/table-lamp-low-poly-36792497b18d4b0f87fc502429779db4) by vadzaecc (https://sketchfab.com/vadzaecc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
